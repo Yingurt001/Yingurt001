@@ -1,46 +1,112 @@
-# Hi there, I'm Ying Zhang 👋
+<div align="center">
 
-🎓 Student at the **University of Nottingham**
-🔬 Passionate about **Machine Learning**, **Computer Vision**, and **Data Science**
-🌐 Recently exploring **Web Development** with TypeScript
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Ying+Zhang+%F0%9F%91%8B;Machine+Learning+Enthusiast;Computer+Vision+%7C+Data+Science;University+of+Nottingham)](https://git.io/typing-svg)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Yingurt001-181717?style=for-the-badge&logo=github)](https://github.com/Yingurt001)
+[![Email](https://img.shields.io/badge/Email-smyyz22%40nottingham.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smyyz22@nottingham.ac.uk)
+![Views](https://komarev.com/ghpvc/?username=Yingurt001&style=for-the-badge&color=blue)
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## About Me
 
-| Project | Description |
-|---------|-------------|
-| [SBI-summer-project](https://github.com/Yingurt001/SBI-summer-project) | Simulation-based inference workflows: model sampling, posterior estimation, normalising flow & neural networks |
-| [Intelligent-Apple-Recognition](https://github.com/Yingurt001/Intelligent-Apple-Recognition) | Apple detection & ripeness classification using OpenCV and deep learning (CNN, ResNet50) |
-| [Tennis-Match-Outcome-Prediction](https://github.com/Yingurt001/Tennis-Match-Outcome-Prediction-via-Ensemble-Learning) | Tennis match outcome prediction via ensemble learning |
-| [Imbalancing-antifraud](https://github.com/Yingurt001/Imbalancing-antifraud) | Handling imbalanced data for fraud detection |
-| [Web_Lighthouse](https://github.com/Yingurt001/Web_Lighthouse) | Web development project built with TypeScript |
+- 🎓 Student at the **University of Nottingham**
+- 🔬 Interested in **Machine Learning**, **Computer Vision**, and **Data Science**
+- 🌐 Recently exploring **Full-Stack Web Development** with TypeScript
+- 📊 Experienced in **statistical modelling** and **simulation-based inference**
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yingurt001&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yingurt001&layout=compact&hide_border=true" height="165" />
-</p>
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,r)](https://skillicons.dev)
+
+**ML / Data Science**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
+
+**Web & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,linux)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 📫 How to Reach Me
+## Featured Projects
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:smyyz22@nottingham.ac.uk)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yingurt001)
+<table>
+<tr>
+<td width="50%">
+
+### 🧪 [SBI Summer Project](https://github.com/Yingurt001/SBI-summer-project)
+Simulation-based inference workflows including model sampling, posterior estimation, normalising flow & neural networks.
+
+`Python` `PyTorch` `Bayesian Inference`
+
+</td>
+<td width="50%">
+
+### 🍎 [Intelligent Apple Recognition](https://github.com/Yingurt001/Intelligent-Apple-Recognition)
+Apple detection & ripeness classification using OpenCV and deep learning (CNN, ResNet50).
+
+`Python` `OpenCV` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎾 [Tennis Match Prediction](https://github.com/Yingurt001/Tennis-Match-Outcome-Prediction-via-Ensemble-Learning)
+Tennis match outcome prediction via ensemble learning methods.
+
+`Python` `scikit-learn` `Ensemble Methods`
+
+</td>
+<td width="50%">
+
+### 🛡️ [Imbalancing Antifraud](https://github.com/Yingurt001/Imbalancing-antifraud)
+Tackling class imbalance for fraud detection with resampling and evaluation techniques.
+
+`Python` `Imbalanced Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [Web Lighthouse](https://github.com/Yingurt001/Web_Lighthouse)
+Web application built with TypeScript.
+
+`TypeScript` `Web Development`
+
+</td>
+<td width="50%">
+
+### 📝 [Vibelog](https://github.com/Yingurt001/Vibelog)
+Blog platform built with TypeScript.
+
+`TypeScript` `Web Development`
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yingurt001&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Ying's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yingurt001&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yingurt001&layout=compact&theme=transparent&hide_border=true)
+
+</div>
