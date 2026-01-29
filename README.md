@@ -101,15 +101,3 @@ Blog platform built with TypeScript.
 </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yingurt001&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-![Ying's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yingurt001&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yingurt001&layout=compact&theme=transparent&hide_border=true)
-
-</div>
