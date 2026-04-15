@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Ying+Zhang+%F0%9F%91%8B;Machine+Learning+Enthusiast;Scientific+Inference+%7C+Data+Science;University+of+Nottingham)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Ying+Zhang+%F0%9F%91%8B;Machine+Learning+Enthusiast;Scien+tific+Inference+%7C+Data+Science;University+of+Nottingham)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yingurt001-181717?style=for-the-badge&logo=github)](https://github.com/Yingurt001)
 [![Email](https://img.shields.io/badge/Email-smyyz22%40nottingham.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smyyz22@nottingham.ac.uk)
